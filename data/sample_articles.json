@@ -1,0 +1,110 @@
+[
+  {
+    "title": "OpenAI Releases GPT-5 With Major Reasoning Improvements",
+    "url": "https://example.com/gpt5",
+    "source": "TechCrunch",
+    "published": "2026-04-20T14:30:00+00:00",
+    "description": "OpenAI has announced GPT-5, featuring significant advances in multi-step reasoning, code generation, and factual accuracy. The model is available via API and ChatGPT Pro.",
+    "category_hint": "tech",
+    "region_hint": "global"
+  },
+  {
+    "title": "Bitcoin Breaks $150,000 Amid Institutional Inflows",
+    "url": "https://example.com/btc150k",
+    "source": "CNBC",
+    "published": "2026-04-20T10:15:00+00:00",
+    "description": "Bitcoin reached a new all-time high as major financial institutions increased their cryptocurrency allocations. BlackRock's Bitcoin ETF saw record inflows.",
+    "category_hint": "business",
+    "region_hint": "us"
+  },
+  {
+    "title": "Federal Reserve Signals Rate Cut in July Meeting",
+    "url": "https://example.com/fed-rate",
+    "source": "Reuters — Business",
+    "published": "2026-04-19T18:00:00+00:00",
+    "description": "The Federal Reserve indicated that a 25 basis point rate cut is likely at the July FOMC meeting, citing cooling inflation and softening labor market data.",
+    "category_hint": "business",
+    "region_hint": "us"
+  },
+  {
+    "title": "EU Passes Landmark AI Regulation Framework",
+    "url": "https://example.com/eu-ai-act",
+    "source": "BBC — Technology",
+    "published": "2026-04-19T12:45:00+00:00",
+    "description": "The European Union has adopted comprehensive AI regulations, setting global standards for transparency, bias testing, and high-risk AI system oversight.",
+    "category_hint": "tech",
+    "region_hint": "europe"
+  },
+  {
+    "title": "India's GDP Growth Accelerates to 8.1% in Q1",
+    "url": "https://example.com/india-gdp",
+    "source": "Reuters — World",
+    "published": "2026-04-19T08:30:00+00:00",
+    "description": "India reported stronger-than-expected economic growth driven by services sector expansion and increased infrastructure spending.",
+    "category_hint": "general",
+    "region_hint": "global"
+  },
+  {
+    "title": "NVIDIA Unveils Next-Gen AI Chip Architecture",
+    "url": "https://example.com/nvidia-chip",
+    "source": "Ars Technica",
+    "published": "2026-04-18T16:20:00+00:00",
+    "description": "NVIDIA announced its Blackwell Ultra architecture, promising 3x performance gains for AI training workloads. Major cloud providers have already committed to deployment.",
+    "category_hint": "tech",
+    "region_hint": "global"
+  },
+  {
+    "title": "Russia-Ukraine Ceasefire Negotiations Resume in Geneva",
+    "url": "https://example.com/ceasefire",
+    "source": "Al Jazeera — News",
+    "published": "2026-04-18T14:00:00+00:00",
+    "description": "Diplomatic representatives from Russia and Ukraine met in Geneva for a new round of ceasefire negotiations, with mediators expressing cautious optimism.",
+    "category_hint": "general",
+    "region_hint": "global"
+  },
+  {
+    "title": "WHO Declares End of Global Mpox Emergency",
+    "url": "https://example.com/who-mpox",
+    "source": "WHO — News",
+    "published": "2026-04-18T10:00:00+00:00",
+    "description": "The World Health Organization officially ended the mpox public health emergency of international concern, citing effective vaccine distribution.",
+    "category_hint": "healthcare",
+    "region_hint": "global"
+  },
+  {
+    "title": "Oil Prices Drop as OPEC+ Agrees to Production Increase",
+    "url": "https://example.com/opec-oil",
+    "source": "MarketWatch",
+    "published": "2026-04-17T22:00:00+00:00",
+    "description": "Crude oil prices fell 4% after OPEC+ members agreed to gradually increase production quotas starting in June, aiming to stabilise global supply.",
+    "category_hint": "business",
+    "region_hint": "global"
+  },
+  {
+    "title": "Climate Summit Produces Binding Carbon Reduction Targets",
+    "url": "https://example.com/climate",
+    "source": "The Guardian — World",
+    "published": "2026-04-17T15:30:00+00:00",
+    "description": "A landmark climate summit concluded with 48 nations signing binding agreements to reduce carbon emissions by 40% by 2035.",
+    "category_hint": "general",
+    "region_hint": "europe"
+  },
+  {
+    "title": "Apple Announces M5 Chip Lineup for Mac and iPad",
+    "url": "https://example.com/apple-m5",
+    "source": "The Verge",
+    "published": "2026-04-17T11:00:00+00:00",
+    "description": "Apple revealed its M5 chip series with on-device AI capabilities, 3nm process, and support for 128GB unified memory on Pro models.",
+    "category_hint": "tech",
+    "region_hint": "global"
+  },
+  {
+    "title": "Pentagon Awards $12B Contract for Autonomous Drone Fleet",
+    "url": "https://example.com/pentagon-drones",
+    "source": "NPR — News",
+    "published": "2026-04-16T20:00:00+00:00",
+    "description": "The U.S. Department of Defense announced a $12 billion contract for development of AI-powered autonomous drone systems for reconnaissance and logistics.",
+    "category_hint": "general",
+    "region_hint": "us"
+  }
+]
