@@ -1,4 +1,4 @@
-#🌐 AI News Intelligence Dashboard
+# 🌐 AI News Intelligence Dashboard
 
 > Real-time multi-source news analysis with topic clustering, sentiment scoring, geographic mapping, and trend detection — powered by Python, scikit-learn, and Streamlit.
 
