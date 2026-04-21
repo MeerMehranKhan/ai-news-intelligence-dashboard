@@ -1,4 +1,4 @@
-<![CDATA[# 🌐 AI News Intelligence Dashboard
+#🌐 AI News Intelligence Dashboard
 
 > Real-time multi-source news analysis with topic clustering, sentiment scoring, geographic mapping, and trend detection — powered by Python, scikit-learn, and Streamlit.
 
@@ -345,13 +345,6 @@ Replace the in-memory DataFrame with SQLite or PostgreSQL. The `DashboardResult`
 
 ---
 
-## 📝 Resume Bullet
-
-> **AI News Intelligence Dashboard** — Built a real-time news intelligence platform that ingests 25+ RSS feeds, classifies articles into 13 topic categories using keyword matching and TF-IDF cosine similarity, performs VADER sentiment analysis, detects geographic signals across 28 countries, identifies rising trends via temporal frequency analysis, and generates narrative summaries — all rendered in a polished Streamlit dashboard with optional LLM enhancement. Python · scikit-learn · NLTK · Plotly · Streamlit.
-
----
-
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-]]>
